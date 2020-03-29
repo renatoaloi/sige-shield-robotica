@@ -1,0 +1,5 @@
+
+class SigeShieldRobotica {
+public:
+    SigeShieldRobotica();
+}
